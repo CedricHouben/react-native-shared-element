@@ -1,5 +1,5 @@
 {
-  "name": "react-native-shared-element",
+  "name": "chouben-react-native-shared-element",
   "version": "0.8.10",
   "description": "Native shared element transition primitives for react-native 💫",
   "main": "build/index.js",
