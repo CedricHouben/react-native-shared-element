@@ -11,7 +11,7 @@ import {
   SharedElement,
   SharedElementTransition,
   nodeFromRef,
-} from "react-native-shared-element";
+} from "chouben-react-native-shared-element";
 
 export default class App extends React.Component {
   state = {

@@ -1,6 +1,6 @@
 {
   "name": "chouben-react-native-shared-element",
-  "version": "0.8.10",
+  "version": "0.8.11",
   "description": "Native shared element transition primitives for react-native 💫",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -17,7 +17,7 @@
     "prepare": "yarn copy-flow-typings"
   },
   "keywords": [
-    "react-native-shared-element",
+    "chouben-react-native-shared-element",
     "expo",
     "expo-shared-element",
     "react-native",

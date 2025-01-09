@@ -3,7 +3,7 @@ import {
   SharedElementAnimation,
   SharedElementResize,
   SharedElementAlign,
-} from "react-native-shared-element";
+} from "chouben-react-native-shared-element";
 
 export type Position =
   | "default"

@@ -1,5 +1,8 @@
 import * as React from "react";
-import { SharedElement, SharedElementNode } from "react-native-shared-element";
+import {
+  SharedElement,
+  SharedElementNode,
+} from "chouben-react-native-shared-element";
 
 import {
   ScreenTransitionContext,

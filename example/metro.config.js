@@ -6,7 +6,7 @@ const path = require("path");
 const defaultConfig = getDefaultConfig(__dirname);
 
 const resolvers = {
-  "react-native-shared-element": "..",
+  "chouben-react-native-shared-element": "..",
 };
 
 // Add custom resolver and watch-folders because

@@ -2,7 +2,7 @@ import {
   SharedElementAnimation,
   SharedElementResize,
   SharedElementAlign,
-} from "react-native-shared-element";
+} from "chouben-react-native-shared-element";
 
 export interface SharedElementStrictConfig {
   readonly id: string;

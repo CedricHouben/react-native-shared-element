@@ -1,6 +1,9 @@
 import * as React from "react";
 import { View } from "react-native";
-import { nodeFromRef, SharedElementNode } from "react-native-shared-element";
+import {
+  nodeFromRef,
+  SharedElementNode,
+} from "chouben-react-native-shared-element";
 
 export type ScreenTransitionContextOnSharedElementsUpdatedEvent = {
   children: any;

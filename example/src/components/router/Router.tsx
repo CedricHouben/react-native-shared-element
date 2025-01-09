@@ -12,7 +12,7 @@ import {
   ScreenContainer,
   Screen,
 } from "react-native-screens";
-import { SharedElementTransition } from "react-native-shared-element";
+import { SharedElementTransition } from "chouben-react-native-shared-element";
 
 import { fromRight } from "../../transitions";
 import type { TransitionConfig } from "../../transitions";
